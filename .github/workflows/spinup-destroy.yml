@@ -1,4 +1,4 @@
-name: Configure Azure environment
+name: Configure Azure environment for test
 
 on: 
   pull_request:
